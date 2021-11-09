@@ -1,0 +1,7 @@
+nltk
+sklearn
+pandas
+numpy
+matplotlib
+pickle-mixin
+pymysql
