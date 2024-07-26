@@ -1,5 +1,7 @@
 # NLP-Vacinas
 
+![NLP-Vacinas](https://www.camara.leg.br/midias/image/2021/06/img20201022140139807-768x512.jpg
+
 Este repositório contém os scripts e arquivos necessários para o projeto de monitoramento e análise de notícias sobre vacinas. O projeto envolve a coleta, análise e visualização de dados, utilizando diversas técnicas de ciência de dados e aprendizado de máquina.
 
 ## Estrutura do Repositório
